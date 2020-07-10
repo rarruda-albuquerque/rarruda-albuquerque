@@ -1,6 +1,13 @@
-### Hi there 👋
+### About me 👋
+:family:
+:soccer:
+:wine_glass:
+:pizza:
+:beers:
+:cinema:
 :airplane:
-:br:
+:computer:
+
 
 <!--
 **rarruda-albuquerque/rarruda-albuquerque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
